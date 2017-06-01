@@ -18,9 +18,10 @@ label {
   background: white;
   padding: 2rem;
   box-shadow: $grad;
-  & + .form {
+  /*& + .form {
     margin-top: 4rem;
-  }
+  }*/
+  margin-top: 4rem;
   // I know this isn't bem but meh
   h2 {
     margin: 0;

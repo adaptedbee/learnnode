@@ -20,4 +20,9 @@ body {
   @media all and (max-width: 900px) {
     padding: 2rem;
   }
+  .content &{
+    @media screen and (min-width: 1024px) {
+      padding-bottom: 4rem;
+    }
+  }
 }
