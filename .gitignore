@@ -1,5 +1,7 @@
 __docs/
 node_modules/
+.DS_Store
+*.log
+.idea
 variables.env
-public/dist/
-public/uploads/
+variables.env.now
